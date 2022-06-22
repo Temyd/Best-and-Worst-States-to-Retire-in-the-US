@@ -1,5 +1,5 @@
 # Project Name
-Best-and-Worst-States-to-Retire-in-the-US
+Best and Worst States to Retire in the US
 # Problem Statement
 We want to analyze the best and worst states to retire in in the US, Bankrate looked at five broad categories: affordability, wellness, culture, weather and crime.
 # Data Sourcing
